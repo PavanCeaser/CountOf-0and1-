@@ -1,7 +1,9 @@
 # CountOf-0and1-
-Count of 1 and longest substring of 0
+Count of 1 and longest substring of 0 for a given string of 011000,
+output = > count of 1 = 2
+count of 0 is 3;
 
-About the problem.
+About the program.
  The ans is divided into two parts
 1. To count the total number of 1 
 2. To count the total number of 0's in the substring means
